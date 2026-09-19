@@ -9,7 +9,7 @@ Insta Plus is an independent social media client focused on customization, priva
 - 🎨 Customization options
 - 👻 Privacy-focused features
 - 🔄 Repost and sharing tools
-- 🎵 Media utilities
+- 🎵 Media utilities 
 - 🚫 Distraction-control features
 - 🧊 Modern and smooth interface
 - ⚙️ Additional quality-of-life improvements
