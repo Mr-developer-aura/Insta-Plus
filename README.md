@@ -16,29 +16,70 @@ Insta Plus is an independent social media client focused on customization, priva
 
 More features are being developed.
 
-📱 Four Variants
+📱 Available Variants
 
-Insta Plus is planned to be available in four variants, giving users different installation and usage options:
+Insta Plus currently comes in different variants to support different devices and installation preferences.
 
-Variant| Type| Official Instagram required?
-Insta Plus Original| Full-featured version| ❌ Official Instagram app must be removed
-Insta Plus Clone| Full-featured clone version| ✅ Can coexist with the official Instagram app
-Insta Plus Lite| Lightweight version| ❌ Does not require the official Instagram app
-Insta Plus Lite Clone| Lightweight clone version| ❌ Does not require the official Instagram app
+📱 Insta Plus Original
 
-The exact differences between variants may change during development.
+The standard full-featured version.
+
+- Full Insta Plus experience
+- Uses the standard installation/package configuration
+- The official Instagram app cannot be installed alongside this version
+
+📱 Insta Plus Clone
+
+A clone/package variant of the standard Insta Plus version.
+
+- Full Insta Plus experience
+- Uses a separate package configuration
+- Can be installed alongside the official Instagram app
+- Useful for users who want to keep both applications installed
+
+⚡ Insta Plus Lite — 32-bit
+
+A lightweight version designed for compatible 32-bit Android devices.
+
+- Reduced resource requirements
+- Designed for older/less powerful devices
+- 32-bit compatible build
+
+⚡ Insta Plus Lite — 64-bit
+
+A lightweight version designed for compatible 64-bit Android devices.
+
+- Lightweight experience
+- Designed for better compatibility with supported 64-bit devices
+- 64-bit build
+
+«Note: The available variants and their package configurations may change as development continues.»
 
 🚀 Coming Soon
 
 AI-powered features are planned for future versions and are not currently included.
 
-Future updates may also introduce additional customization, privacy, performance, and quality-of-life improvements.
+Future updates may also introduce:
+
+- 🤖 AI-powered tools
+- 🎨 More customization
+- 🔐 Additional privacy features
+- ⚡ Performance improvements
+- 🛠️ More quality-of-life features
+- 📱 Additional device compatibility
 
 📥 Download
 
-The latest available releases will be published in the GitHub Releases section.
+Download the latest version from the GitHub Releases section.
 
-Always download Insta Plus from an official project release or another source you trust.
+Choose the APK that matches your device and the installation option you want.
+
+Recommended naming
+
+InstaPlus-Original-v1.0.0.apk
+InstaPlus-Clone-v1.0.0.apk
+InstaPlus-Lite-32Bit-v1.0.0.apk
+InstaPlus-Lite-64Bit-v1.0.0.apk
 
 🛠️ Development
 
@@ -57,7 +98,7 @@ Open a GitHub Issue and include:
 - Device model
 - Android version
 - Description of the problem
-- Steps to reproduce it
+- Steps to reproduce the issue
 - Screenshots or logs when appropriate
 
 Never share passwords, authentication tokens, API keys, or other private information.
@@ -66,7 +107,9 @@ Never share passwords, authentication tokens, API keys, or other private informa
 
 Have an idea for Insta Plus?
 
-Open an issue and describe the feature you'd like to see. Suggestions and feedback are welcome.
+Open an issue and describe the feature you'd like to see.
+
+Suggestions and feedback are welcome.
 
 📋 Roadmap
 
@@ -74,10 +117,10 @@ Open an issue and describe the feature you'd like to see. Suggestions and feedba
 - [x] Customization improvements
 - [x] Privacy-focused tools
 - [x] Media utilities
-- [ ] Insta Plus Original
-- [ ] Insta Plus Clone
-- [ ] Insta Plus Lite
-- [ ] Insta Plus Lite Clone
+- [x] Original variant
+- [x] Clone variant
+- [x] Lite 32-bit variant
+- [x] Lite 64-bit variant
 - [ ] More customization
 - [ ] Additional privacy features
 - [ ] AI-powered features
