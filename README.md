@@ -20,7 +20,7 @@ More features are being developed.
 
 Insta Plus currently comes in different variants to support different devices and installation preferences.
 
-📱 Insta Plus Original
+📱 Insta zen
 
 The standard full-featured version.
 
@@ -28,7 +28,7 @@ The standard full-featured version.
 - Uses the standard installation/package configuration
 - The official Instagram app cannot be installed alongside this version
 
-📱 Insta Plus Clone
+📱 Honista
 
 A clone/package variant of the standard Insta Plus version.
 
@@ -36,22 +36,6 @@ A clone/package variant of the standard Insta Plus version.
 - Uses a separate package configuration
 - Can be installed alongside the official Instagram app
 - Useful for users who want to keep both applications installed
-
-⚡ Insta Plus Lite — 32-bit
-
-A lightweight version designed for compatible 32-bit Android devices.
-
-- Reduced resource requirements
-- Designed for older/less powerful devices
-- 32-bit compatible build
-
-⚡ Insta Plus Lite — 64-bit
-
-A lightweight version designed for compatible 64-bit Android devices.
-
-- Lightweight experience
-- Designed for better compatibility with supported 64-bit devices
-- 64-bit build
 
 «Note: The available variants and their package configurations may change as development continues.»
 
