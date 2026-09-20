@@ -1,130 +1,127 @@
-o📸 Insta Plus
+InstaZen
 
-Insta Plus is an independent social media client focused on customization, privacy, media tools, and a smooth modern experience.
+A modern Instagram-based client focused on customization, privacy-oriented features, and an enhanced user experience.
 
-«⚠️ Disclaimer: Insta Plus is an independent project and is not affiliated with, endorsed by, or sponsored by Instagram or Meta Platforms, Inc.»
+«🚧 Project Status: Active development
+🔒 Source Code: Currently private»
+
+👥 Development Team
+
+Co-developed by: Swapnil Pratihar, Aman Ojha & Team
+
+---
+
+📦 Available Versions
+
+InstaZen is currently available in two variants:
+
+🟢 InstaZen Clone
+
+The Clone version uses a separate application identity.
+
+- ✅ Can be installed alongside the original Instagram app
+- ✅ No need to uninstall your existing Instagram
+- ✅ Both apps can remain installed simultaneously
+
+🔵 InstaZen Non-Clone
+
+The Non-Clone version uses the regular Instagram application identity.
+
+- ⚠️ The existing Instagram app must be uninstalled first
+- 📱 Intended for users who want InstaZen to replace the regular installation
+
+Quick Comparison
+
+Feature| InstaZen Clone| InstaZen Non-Clone
+Keep original Instagram installed| ✅ Yes| ❌ No
+Separate app identity| ✅ Yes| ❌ No
+Requires uninstalling Instagram| ❌ No| ✅ Yes
+
+---
 
 ✨ Features
 
-- 🎨 Customization options
-- 👻 Privacy-focused features
-- 🔄 Repost and sharing tools
-- 🎵 Media utilities 
+InstaZen aims to provide an enhanced experience with features such as:
+
+- 🎨 Customizable interface and themes
+- 👻 Ghost Mode
+- 🤖 AI-powered features
+- 💬 AI-assisted chat writing
+- 🔄 Reposting capabilities
+- 🎵 Enhanced Story features
+- 📸 AI image upscaling
+- 🧒 Child Mode
 - 🚫 Distraction-control features
-- 🧊 Modern and smooth interface
-- ⚙️ Additional quality-of-life improvements
+- ⚠️ Policy-awareness warnings
+- 🎂 Optional automated birthday wishes
+- 🌐 Cross-platform development
 
-More features are being developed.
+Features may change as development continues.
 
-📱 Available Variants
+---
 
-Insta Plus currently comes in different variants to support different devices and installation preferences.
+🔐 Source Code
 
-📱 Insta zen
+The InstaZen source code is currently private.
 
-The standard full-featured version.
+The GitHub repository is being used to organize the project and publish releases/documentation while development continues.
 
-- Full Insta Plus experience
-- Uses the standard installation/package configuration
-- The official Instagram app cannot be installed alongside this version
+---
 
-📱 Honista
+📥 Installation
 
-A clone/package variant of the standard Insta Plus version.
+Clone Version
 
-- Full Insta Plus experience
-- Uses a separate package configuration
-- Can be installed alongside the official Instagram app
-- Useful for users who want to keep both applications installed
+Install the InstaZen Clone APK normally.
 
-«Note: The available variants and their package configurations may change as development continues.»
+You do not need to uninstall Instagram.
 
-🚀 Coming Soon
+Non-Clone Version
 
-AI-powered features are planned for future versions and are not currently included.
+Before installing the Non-Clone version:
 
-Future updates may also introduce:
+1. Back up anything important.
+2. Uninstall the existing Instagram installation.
+3. Install the InstaZen Non-Clone APK.
 
-- 🤖 AI-powered tools
-- 🎨 More customization
-- 🔐 Additional privacy features
-- ⚡ Performance improvements
-- 🛠️ More quality-of-life features
-- 📱 Additional device compatibility
+«⚠️ Always download releases from the project's official GitHub repository.»
 
-📥 Download
+---
 
-Download the latest version from the GitHub Releases section.
+⚠️ Disclaimer
 
-Choose the APK that matches your device and the installation option you want.
+InstaZen is an independent project and is not affiliated with, sponsored by, or endorsed by Meta or Instagram.
 
-Recommended naming
+Instagram and related trademarks belong to their respective owners.
 
-InstaPlus-Original-v1.0.0.apk
-InstaPlus-Clone-v1.0.0.apk
-InstaPlus-Lite-32Bit-v1.0.0.apk
-InstaPlus-Lite-64Bit-v1.0.0.apk
+Users are responsible for complying with the terms and policies applicable to the services they use.
+
+---
 
 🛠️ Development
 
-Insta Plus is currently under active development.
+InstaZen is actively being developed and tested.
 
-The source code is private for now. More information about the project's development may be provided in the future.
+The project may receive:
 
-🐛 Bug Reports
+- New features
+- Bug fixes
+- Performance improvements
+- UI improvements
+- Compatibility updates
 
-Found a problem?
+Some features may be experimental and can change or be removed in future releases.
 
-Open a GitHub Issue and include:
+---
 
-- Insta Plus variant
-- Insta Plus version
-- Device model
-- Android version
-- Description of the problem
-- Steps to reproduce the issue
-- Screenshots or logs when appropriate
+❤️ Credits
 
-Never share passwords, authentication tokens, API keys, or other private information.
+Co-developed by:
 
-💡 Feature Requests
+- Swapnil Pratihar
+- Aman Ojha
+- Team InstaZen
 
-Have an idea for Insta Plus?
+Built with passion and a lot of code. 🚀
 
-Open an issue and describe the feature you'd like to see.
-
-Suggestions and feedback are welcome.
-
-📋 Roadmap
-
-- [x] Core social experience
-- [x] Customization improvements
-- [x] Privacy-focused tools
-- [x] Media utilities
-- [x] Original variant
-- [x] Clone variant
-- [x] Lite 32-bit variant
-- [x] Lite 64-bit variant
-- [ ] More customization
-- [ ] Additional privacy features
-- [ ] AI-powered features
-- [ ] More quality-of-life improvements
-
-⚖️ Legal
-
-Instagram and Meta are trademarks of their respective owners.
-
-Insta Plus does not claim ownership of third-party trademarks, services, or content.
-
-Users are responsible for complying with applicable laws and the terms of any third-party services they use.
-
-❤️ Support the Project
-
-If you like Insta Plus:
-
-⭐ Star the repository
-🐛 Report bugs
-💡 Suggest features
-📢 Share the project
-
-Built independently with passion. 🚀
+«“Passion man.” 😎»
